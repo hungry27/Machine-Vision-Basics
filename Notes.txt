@@ -1,0 +1,7 @@
+Lab one for machine Vision
+
+The first Section requires flipping the picture Horizontally and Vertically.
+
+The Second Section requires negating the photo.
+
+The Third Section requires separating the photo into its primary colours; Red, Green &, Blue
